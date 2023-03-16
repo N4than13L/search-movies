@@ -7,12 +7,7 @@
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
     "bulma": "^0.9.1",
-<<<<<<< HEAD
     "create-react-app": "^1.2.1",
-=======
-    "create-react-app": "^4.0.3",
-    "env-cmd": "^10.1.0",
->>>>>>> c596291280cbd0b1af20ed1dbddba7b5b16acbc9
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
