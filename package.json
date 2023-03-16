@@ -16,12 +16,12 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "env-cmd -f .test.env react-scripts start",
-    "build": "env-cmd -f .production.env react-scripts build",
-    "start:test": "env-cmd -f .testing.env react-scripts start",
-    "build:test": "env-cmd -f .testing.env react-scripts build",
-    "start:prod": "env-cmd -f .production.env react-scripts start",
-    "build:prod": "env-cmd -f .production.env react-scripts build"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "start:test": "react-scripts start",
+    "build:test": "react-scripts build",
+    "start:prod": "react-scripts start",
+    "build:prod": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
